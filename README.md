@@ -1,0 +1,3 @@
+Hello, I am Ember.
+
+My name is an MD5 hash for literally nothing...
